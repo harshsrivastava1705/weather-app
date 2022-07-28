@@ -1,0 +1,20 @@
+body{
+  
+}
+#load {
+  margin: 0 auto;
+}
+#card{
+  margin: 0 auto;
+  margin-top:5%;
+  color: rgb(0,0,0);
+  background-color: rgba(255, 255, 255, .15);
+  backdrop-filter: blur(5px);
+}
+#refresh{
+  display:flex;
+  justify-content: flex-end;
+}
+#GoSync:hover{
+  cursor: pointer;
+}
